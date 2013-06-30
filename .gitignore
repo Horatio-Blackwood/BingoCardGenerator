@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.war
+*.ear
+build.xml
+
+dist/*
+build/*
+nbproject/
+nbproject/*
+test_data/*
