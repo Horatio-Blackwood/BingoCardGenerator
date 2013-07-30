@@ -17,9 +17,9 @@ public class BingoCardGenerator {
      * Executes the application.
      * 
      * @param blargs the command line arguments for this app.  They are as follows:
-     *                  1 - The name of the file containing the bingo options.
-     *                  2 - Title of the Bingo Card to put on the Cards.
-     *                  3 - The number of cards to generate as an integer.
+     *                  0 - The name of the file containing the bingo options.
+     *                  1 - Title of the Bingo Card to put on the Cards.
+     *                  2 - The number of cards to generate as an integer.
      * 
      * @throws IOException if errors occur reading from or writing to files.
      */
